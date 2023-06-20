@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class Kdv{
-    public static void Kdv (String[] args) {
+    public static void main (String[] args) {
         double tutar, kdvOran = 0.18, kdvTutar, kdvliTutar;
 
         Scanner input = new Scanner(System.in);
