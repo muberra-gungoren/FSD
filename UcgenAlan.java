@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class UcgenAlan {
-    public static void UcgenAlan(String[] args) {
+    public static void main (String[] args) {
         // Değişkenlerimizi oluşturalım
         double a, b, c;
 
