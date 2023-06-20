@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class NotOrtalaması {
-    public static void NotOrtalaması(String[] args) {
+    public static void main (String[] args) {
        // Değişkenleri oluştur
         int mat, fizik, kimya, turkce, tarih, muzik;
 
